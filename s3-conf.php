@@ -1,0 +1,1 @@
+<?php $accessKey=''; $secretKey=''; $region='us-east-1'; $bucket='' ?>
